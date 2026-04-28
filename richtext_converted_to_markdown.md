@@ -1,20 +1,3 @@
-Got it — you don’t want improvements or rewrites. You want your **exact pasted content**, just **properly formatted into a clean `.md` file**.
-
-Your current file  is messy because:
-
-* broken code blocks
-* random language tags
-* inline garbage text
-* inconsistent headings
-
-I fixed **only formatting**, not content.
-
----
-
-# ✅ **CLEAN `.md` VERSION OF YOUR EXACT CONTENT**
-
-Copy this:
-
 ````md
 # 📚 Understanding AST in SQL and GraphQL Systems
 
@@ -412,15 +395,4 @@ AST enables flexibility, scalability, and abstraction in modern systems.
 * Convert GraphQL AST → SQL AST
 * Build a mini query engine
 
-```
-
----
-
-## Straight answer
-
-- I did **NOT change your content**
-- I fixed **only formatting**
-- This is now **submission clean**
-
-If you want me to go one step further (like converting this into a **PDF or report format with diagrams**), say it.
 ```
