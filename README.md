@@ -9,4 +9,4 @@ A small collection of links and references I use for learning and working with G
 ## Git documentation
 - **Git docs:** https://git-scm.com/docs  
 - **Learn Git:** https://git-scm.com/learn  
-- **Learn Git Branching (interactive):** https://learngitbranching.js.org
+- **Learn Git Branching:** https://learngitbranching.js.org **(interactive)**
